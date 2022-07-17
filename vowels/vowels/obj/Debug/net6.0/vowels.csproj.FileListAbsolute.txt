@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\vowels\vowels\bin\Debug\net6.0\vowels.exe
+C:\Users\anjum\source\repos\vowels\vowels\bin\Debug\net6.0\vowels.deps.json
+C:\Users\anjum\source\repos\vowels\vowels\bin\Debug\net6.0\vowels.runtimeconfig.json
+C:\Users\anjum\source\repos\vowels\vowels\bin\Debug\net6.0\vowels.dll
+C:\Users\anjum\source\repos\vowels\vowels\bin\Debug\net6.0\vowels.pdb
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\vowels.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\vowels.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\vowels.AssemblyInfo.cs
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\vowels.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\vowels.dll
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\refint\vowels.dll
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\vowels.pdb
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\vowels.genruntimeconfig.cache
+C:\Users\anjum\source\repos\vowels\vowels\obj\Debug\net6.0\ref\vowels.dll
