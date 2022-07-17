@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\harmonicno\harmonicno\bin\Debug\net6.0\harmonicno.exe
+C:\Users\anjum\source\repos\harmonicno\harmonicno\bin\Debug\net6.0\harmonicno.deps.json
+C:\Users\anjum\source\repos\harmonicno\harmonicno\bin\Debug\net6.0\harmonicno.runtimeconfig.json
+C:\Users\anjum\source\repos\harmonicno\harmonicno\bin\Debug\net6.0\harmonicno.dll
+C:\Users\anjum\source\repos\harmonicno\harmonicno\bin\Debug\net6.0\harmonicno.pdb
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\harmonicno.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\harmonicno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\harmonicno.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\harmonicno.AssemblyInfo.cs
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\harmonicno.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\harmonicno.dll
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\refint\harmonicno.dll
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\harmonicno.pdb
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\harmonicno.genruntimeconfig.cache
+C:\Users\anjum\source\repos\harmonicno\harmonicno\obj\Debug\net6.0\ref\harmonicno.dll
