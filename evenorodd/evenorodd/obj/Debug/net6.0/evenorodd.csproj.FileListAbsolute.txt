@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\evenorodd.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\evenorodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\evenorodd.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\evenorodd.AssemblyInfo.cs
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\evenorodd.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\evenorodd\evenorodd\bin\Debug\net6.0\evenorodd.exe
+C:\Users\anjum\source\repos\evenorodd\evenorodd\bin\Debug\net6.0\evenorodd.deps.json
+C:\Users\anjum\source\repos\evenorodd\evenorodd\bin\Debug\net6.0\evenorodd.runtimeconfig.json
+C:\Users\anjum\source\repos\evenorodd\evenorodd\bin\Debug\net6.0\evenorodd.dll
+C:\Users\anjum\source\repos\evenorodd\evenorodd\bin\Debug\net6.0\evenorodd.pdb
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\evenorodd.dll
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\refint\evenorodd.dll
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\evenorodd.pdb
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\evenorodd.genruntimeconfig.cache
+C:\Users\anjum\source\repos\evenorodd\evenorodd\obj\Debug\net6.0\ref\evenorodd.dll
