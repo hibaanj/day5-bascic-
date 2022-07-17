@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\twospower\twospower\bin\Debug\net6.0\twospower.exe
+C:\Users\anjum\source\repos\twospower\twospower\bin\Debug\net6.0\twospower.deps.json
+C:\Users\anjum\source\repos\twospower\twospower\bin\Debug\net6.0\twospower.runtimeconfig.json
+C:\Users\anjum\source\repos\twospower\twospower\bin\Debug\net6.0\twospower.dll
+C:\Users\anjum\source\repos\twospower\twospower\bin\Debug\net6.0\twospower.pdb
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\twospower.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\twospower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\twospower.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\twospower.AssemblyInfo.cs
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\twospower.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\twospower.dll
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\refint\twospower.dll
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\twospower.pdb
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\twospower.genruntimeconfig.cache
+C:\Users\anjum\source\repos\twospower\twospower\obj\Debug\net6.0\ref\twospower.dll
