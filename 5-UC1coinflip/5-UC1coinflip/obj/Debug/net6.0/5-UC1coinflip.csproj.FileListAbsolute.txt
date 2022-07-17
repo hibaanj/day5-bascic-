@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\bin\Debug\net6.0\5-UC1coinflip.exe
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\bin\Debug\net6.0\5-UC1coinflip.deps.json
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\bin\Debug\net6.0\5-UC1coinflip.runtimeconfig.json
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\bin\Debug\net6.0\5-UC1coinflip.dll
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\bin\Debug\net6.0\5-UC1coinflip.pdb
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\5-UC1coinflip.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\5-UC1coinflip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\5-UC1coinflip.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\5-UC1coinflip.AssemblyInfo.cs
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\5-UC1coinflip.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\5-UC1coinflip.dll
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\refint\5-UC1coinflip.dll
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\5-UC1coinflip.pdb
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\5-UC1coinflip.genruntimeconfig.cache
+C:\Users\anjum\source\repos\5-UC1coinflip\5-UC1coinflip\obj\Debug\net6.0\ref\5-UC1coinflip.dll
