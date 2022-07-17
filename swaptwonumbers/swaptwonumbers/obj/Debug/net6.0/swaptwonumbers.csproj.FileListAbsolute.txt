@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\bin\Debug\net6.0\swaptwonumbers.exe
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\bin\Debug\net6.0\swaptwonumbers.deps.json
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\bin\Debug\net6.0\swaptwonumbers.runtimeconfig.json
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\bin\Debug\net6.0\swaptwonumbers.dll
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\bin\Debug\net6.0\swaptwonumbers.pdb
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\swaptwonumbers.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\swaptwonumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\swaptwonumbers.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\swaptwonumbers.AssemblyInfo.cs
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\swaptwonumbers.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\swaptwonumbers.dll
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\refint\swaptwonumbers.dll
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\swaptwonumbers.pdb
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\swaptwonumbers.genruntimeconfig.cache
+C:\Users\anjum\source\repos\swaptwonumbers\swaptwonumbers\obj\Debug\net6.0\ref\swaptwonumbers.dll
