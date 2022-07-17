@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\bin\Debug\net6.0\largestamongthree.exe
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\bin\Debug\net6.0\largestamongthree.deps.json
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\bin\Debug\net6.0\largestamongthree.runtimeconfig.json
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\bin\Debug\net6.0\largestamongthree.dll
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\bin\Debug\net6.0\largestamongthree.pdb
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\largestamongthree.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\largestamongthree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\largestamongthree.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\largestamongthree.AssemblyInfo.cs
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\largestamongthree.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\largestamongthree.dll
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\refint\largestamongthree.dll
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\largestamongthree.pdb
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\largestamongthree.genruntimeconfig.cache
+C:\Users\anjum\source\repos\largestamongthree\largestamongthree\obj\Debug\net6.0\ref\largestamongthree.dll
