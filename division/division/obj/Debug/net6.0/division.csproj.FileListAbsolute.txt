@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\division\division\bin\Debug\net6.0\division.exe
+C:\Users\anjum\source\repos\division\division\bin\Debug\net6.0\division.deps.json
+C:\Users\anjum\source\repos\division\division\bin\Debug\net6.0\division.runtimeconfig.json
+C:\Users\anjum\source\repos\division\division\bin\Debug\net6.0\division.dll
+C:\Users\anjum\source\repos\division\division\bin\Debug\net6.0\division.pdb
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\division.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\division.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\division.AssemblyInfo.cs
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\division.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\division.dll
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\refint\division.dll
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\division.pdb
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\division.genruntimeconfig.cache
+C:\Users\anjum\source\repos\division\division\obj\Debug\net6.0\ref\division.dll
