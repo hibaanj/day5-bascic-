@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\leapyear\leapyear\bin\Debug\net6.0\leapyear.exe
+C:\Users\anjum\source\repos\leapyear\leapyear\bin\Debug\net6.0\leapyear.deps.json
+C:\Users\anjum\source\repos\leapyear\leapyear\bin\Debug\net6.0\leapyear.runtimeconfig.json
+C:\Users\anjum\source\repos\leapyear\leapyear\bin\Debug\net6.0\leapyear.dll
+C:\Users\anjum\source\repos\leapyear\leapyear\bin\Debug\net6.0\leapyear.pdb
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\leapyear.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\leapyear.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\leapyear.AssemblyInfo.cs
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\leapyear.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\leapyear.dll
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\refint\leapyear.dll
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\leapyear.pdb
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\leapyear.genruntimeconfig.cache
+C:\Users\anjum\source\repos\leapyear\leapyear\obj\Debug\net6.0\ref\leapyear.dll
